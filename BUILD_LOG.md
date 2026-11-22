@@ -42,3 +42,6 @@ no randomness, no files read at run time.
 - `.makefun/owner.json`, `LICENSE`, and `.git` were left untouched.
 - No submit, push, or bundle was run from this session; those steps
   belong to the parent agent.
+- Post-build fix (parent agent): README badges added for the make.fun
+  repo_readme check — three live badges plus a link to the bounty page
+  (submit attempt 1 was refused 422 on repo_readme).
